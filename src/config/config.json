@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
+    "title": "Fisioterapeuta Ismael",
     "base_url": "https://bigspring-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -10,26 +10,22 @@
     "logo_height": "38",
     "logo_text": "Astroplate"
   },
-
   "settings": {
     "pagination": 4,
     "summary_length": 200,
     "blog_folder": "blog"
   },
-
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Pedir cita",
     "link": "/contact"
   },
-
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "footer_content": "Tratamientos de fisioterapia personalizados. Dolor crónico, lesiones deportivas, rehabilitación. Fisioterapeuta en Valencia.",
+    "copyright": "Designed and Developed By juanmanms"
   },
-
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",

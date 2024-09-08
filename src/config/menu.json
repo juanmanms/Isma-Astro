@@ -9,66 +9,66 @@
       "url": "/blog"
     },
     {
-      "name": "Pricing",
+      "name": "Tarifas",
       "url": "/pricing"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
-      "name": "FAQ",
+      "name": "Que te duele?",
       "url": "/faq"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Otro",
+      "url": "/#elements"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Fisio Isma",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Quien soy?",
+          "url": "#"
         },
         {
-          "text": "Quick Start",
+          "text": "Pedir cita",
           "url": "#"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "Servicios",
       "menu": [
         {
-          "text": "Features",
+          "text": "Pedir cita",
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "Servicios",
           "url": "#"
         },
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Tarifas",
+          "url": "#"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Legal",
       "menu": [
         {
           "text": "FAQ",
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Aviso legal",
           "url": "/privacy-policy"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "Terminoss & Condiciones",
           "url": "/terms-conditions"
         }
       ]
